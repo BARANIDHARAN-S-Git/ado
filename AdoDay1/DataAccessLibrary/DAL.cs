@@ -32,7 +32,7 @@ namespace DataAccessLibrary
                     Details.ProductName = dr[1].ToString();
                     Details.UnitPrice=Convert.ToDouble(dr[2]);
                     Products.Add(Details);
-                   
+                    ;''
                 }
             }
             else
