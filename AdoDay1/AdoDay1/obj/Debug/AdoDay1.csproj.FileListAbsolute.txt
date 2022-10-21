@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\AdoDay1.exe.config
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\AdoDay1.exe
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\AdoDay1.pdb
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\obj\Debug\AdoDay1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\obj\Debug\AdoDay1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\obj\Debug\AdoDay1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\obj\Debug\AdoDay1.exe
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\obj\Debug\AdoDay1.pdb
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\BusinessLogicLibrary.dll
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\HelperLibrary.dll
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\BusinessLogicLibrary.pdb
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\HelperLibrary.pdb
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\obj\Debug\AdoDay1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\DataAccessLibrary.dll
+C:\Users\Lenovo\Desktop\vs\AdoDay1\AdoDay1\bin\Debug\DataAccessLibrary.pdb

@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\bin\Debug\net6.0\Helper_Layer.deps.json
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\bin\Debug\net6.0\Helper_Layer.dll
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\bin\Debug\net6.0\Helper_Layer.pdb
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\Helper_Layer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\Helper_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\Helper_Layer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\Helper_Layer.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\Helper_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\Helper_Layer.dll
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\refint\Helper_Layer.dll
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\Helper_Layer.pdb
+C:\Users\Lenovo\Desktop\vs\AdoDay1\Helper_Layer\obj\Debug\net6.0\ref\Helper_Layer.dll
